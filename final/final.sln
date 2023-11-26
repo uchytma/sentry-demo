@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final", "final\final.csproj", "{E960B7E7-EE10-4F7E-819A-A36A2094A60A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adela", "adela\adela.csproj", "{A1696038-55F1-438D-8EF8-F6F13EAC6AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service-commissions", "service-commissions\service-commissions.csproj", "{63A6FDB6-D137-4831-8CB0-DB3B502D16DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E960B7E7-EE10-4F7E-819A-A36A2094A60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E960B7E7-EE10-4F7E-819A-A36A2094A60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E960B7E7-EE10-4F7E-819A-A36A2094A60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E960B7E7-EE10-4F7E-819A-A36A2094A60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1696038-55F1-438D-8EF8-F6F13EAC6AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1696038-55F1-438D-8EF8-F6F13EAC6AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1696038-55F1-438D-8EF8-F6F13EAC6AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1696038-55F1-438D-8EF8-F6F13EAC6AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A6FDB6-D137-4831-8CB0-DB3B502D16DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A6FDB6-D137-4831-8CB0-DB3B502D16DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A6FDB6-D137-4831-8CB0-DB3B502D16DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A6FDB6-D137-4831-8CB0-DB3B502D16DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
